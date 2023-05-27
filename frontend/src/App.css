@@ -1,0 +1,8 @@
+.custom-overflow {
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For IE 10+ */
+  }
+  
+  .custom-overflow::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera */
+  }
